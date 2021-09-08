@@ -14,3 +14,11 @@ I was born and brought up in Hyderabad which known as **City of Pearls** it is a
     2. from there, take a flight to Chicago. 
     3. from Chicago, take a flight to Delhi.
     4. from Delhi, take a flight to Hyderabad(Destination).
+2. items that should be brought to hyderabad for maximum enjoyment.
+    * Indian currency.
+    * Sunscreen (if you plan to go in summer).
+    * Snacks
+    * Comfotable clothes
+    * Portable charger
+    * Earphones
+    * Laptop & mobile
