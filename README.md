@@ -86,3 +86,4 @@ for (int j = 1; j <= K; j++)
 int j = log[R - L + 1];
 int minimum = min(st[L][j], st[R - (1 << j) + 1][j]);
 ```
+go to :<https://cp-algorithms.com/data_structures/deleting_in_log_n.html> for more details
