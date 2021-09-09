@@ -24,3 +24,13 @@ I was born and brought up in Hyderabad which known as **City of Pearls** it is a
     * Laptop & mobile
 
 [AboutMe](AboutMe.md)
+
+---
+
+### Foods to try in Hyderabad
+ | Item | Location | Price|
+ |:-----|----------|-----:|
+ | Chicken Biryani |Bawarchi,RTC X Roads | $3.5 |
+ | Chaat |Gokul Chat,Koti| $0.67 |
+ | Irani chai | Nimrah cafe,Charminar | $0.15 |
+ | Dosa | Ram-ki-bandi,Abids | $1.3 |
