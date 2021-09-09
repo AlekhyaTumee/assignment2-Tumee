@@ -8,7 +8,7 @@ I was born and brought up in Hyderabad which known as **City of Pearls** it is a
 
 ---
 
-### Directions for Travelling from Maryville to Missouri
+### Directions for Travelling from Maryville to Hyderabad
 1. The travel time from Maryville to Hyderabad is approximately a day and half.
     1. Take a cab from Maryville to Kansas(MCI) airport. 
     2. from there, take a flight to Chicago. 
