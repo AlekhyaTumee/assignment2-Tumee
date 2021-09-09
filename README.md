@@ -34,3 +34,9 @@ I was born and brought up in Hyderabad which known as **City of Pearls** it is a
  | Chaat |Gokul Chat,Koti| $0.67 |
  | Irani chai | Nimrah cafe,Charminar | $0.15 |
  | Dosa | Ram-ki-bandi,Abids | $1.3 |
+
+---
+
+>"We are all in the gutter, but some of us are looking at the stars."-- *Oscar Wilde*
+
+>"Knowledge is Power,Knowledge shared is power multiplied."-- *Robert Boyce*
